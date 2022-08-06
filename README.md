@@ -13,6 +13,6 @@ Splita is powered by Django framework, HTML, CSS, Javascript and MYSQL.
 
 Splita is a free web platform,however  to be able to perform all the above ,the platform will require you to Sign up or log in first. Authenticated users will be redirected to a dashboard that lets you split your files as you wish. Unauthenticated users can however go through our landing page and documentation to better understand  the service. 
 
-# Technical Issues
+# Technical Issues.
 
 Splita has been designed to be user -friendly and we have tried to tackle any technical issues. However, in the event where you face an unfortunate technical issue,contact support and our technical support team will contact you and we will be able to come up with a solution as fast as possible. 
